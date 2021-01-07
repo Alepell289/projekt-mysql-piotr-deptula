@@ -1,0 +1,6 @@
+CREATE TABLE `pracownicy` (
+  `idpracownika` INT(9) NOT NULL AUTO_INCREMENT,
+  `imie` TEXT COLLATE utf8_polish_ci NOT NULL,
+  `nazwisko` TEXT COLLATE utf8_polish_ci NOT NULL,
+  PRIMARY KEY (`idpracownika`), KEY `id` (`idpracownika`),idklienta int,FOREIGN KEY (idklienta) REFERENCES klienci(idklienta)
+)

@@ -1,0 +1,12 @@
+INSERT INTO `zamowienia` (`idzamowienia`, `idroweru`, `data`, `stan_realizacji_zamowienia`,idklienta) VALUES
+(1,1, '2019-10-08', 'oczekiwanie',1),
+(2,3,'2019-09-05', 'wysłane',2),
+(3,2, '2020-10-11', 'wysłane',4),
+(4,4,'2020-10-15', 'oczekiwanie',6),
+(5,5, '2020-08-12', 'wysłane',8),
+(6,6, '2020-10-20', 'wysłane',4),
+(7,1, '2020-08-14', 'wysłane',8),
+(8,2, '2020-08-19', 'wysłane',1),
+(9,6, '2020-11-19', 'wysłane',9),
+(10,6, '2020-12-28', 'oczekiwanie',7),
+(11,4,'2020-01-06', 'oczekiwanie',5):

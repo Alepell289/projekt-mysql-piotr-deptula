@@ -1,0 +1,7 @@
+CREATE TABLE `zamowienia` (
+  `idzamowienia` int NOT NULL AUTO_INCREMENT,
+  `idroweru` int NOT NULL,
+  `data` date NOT NULL,
+  `stan_realizacji_zamowienia` text COLLATE utf8_polish_ci NOT NULL,
+  PRIMARY KEY (`idzamowienia`),idklienta int ,FOREIGN KEY (idklienta)REFERENCES klienci(idklienta),FOREIGN KEY (idroweru) REFERENCES rowery(idroweru)
+) DEFAULT CHARSET=utf8 COLLATE=utf8_polish_ci:

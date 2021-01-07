@@ -1,0 +1,24 @@
+INSERT INTO `rowery` (`idroweru`, `marka`, `seria`, `nazwa roweru`, `typ roweru`, `cena`,idpracownika) VALUES
+(1, 'Scott',      'S17', 'Tiger Nitro',      'Górski'    ,9999.29,1),
+(2, 'Cannondale', 'G6', 'Black Panther Byke','Szosowy'   ,4699.99,2),
+(3, 'Trek',       'T4', 'UBer Byke ',        'Miejski'   ,3766.70,3),
+(4, 'Scott',      'H6', 'Glover'      ,      'Szosowy'   ,1399.99,3),
+(5, 'Specialized','H2', 'MicroCar',          'Szosowy'   ,2699.99,4),
+(6, 'Scott',      'S3' , 'Polish Best Byke', 'Miejski'   ,999.00,4),
+(7, 'Cannondale', 'S6','White Panther Byke', 'Górski'    ,17999.00,5),
+(8, 'Scott',      'J6', 'FOrk Drive'      ,  'Szosowy'   ,1799.99,6),
+(9, 'Specialized','H4', 'MicroCar v2',       'Szosowy'   ,6699.99,7),
+(10, 'Scott',     'S1' ,'Polish Byke Economic','Miejski' ,299.00,8),
+(11, 'Cannondale','G7','Unitro Super',       'Górski'    ,399.00,9): Running...
+[122, 13:00:27] INSERT INTO `rowery` (`idroweru`, `marka`, `seria`, `nazwa roweru`, `typ roweru`, `cena`,idpracownika) VALUES
+(1, 'Scott',      'S17', 'Tiger Nitro',      'Górski'    ,9999.29,1),
+(2, 'Cannondale', 'G6', 'Black Panther Byke','Szosowy'   ,4699.99,2),
+(3, 'Trek',       'T4', 'UBer Byke ',        'Miejski'   ,3766.70,3),
+(4, 'Scott',      'H6', 'Glover'      ,      'Szosowy'   ,1399.99,3),
+(5, 'Specialized','H2', 'MicroCar',          'Szosowy'   ,2699.99,4),
+(6, 'Scott',      'S3' , 'Polish Best Byke', 'Miejski'   ,999.00,4),
+(7, 'Cannondale', 'S6','White Panther Byke', 'Górski'    ,17999.00,5),
+(8, 'Scott',      'J6', 'FOrk Drive'      ,  'Szosowy'   ,1799.99,6),
+(9, 'Specialized','H4', 'MicroCar v2',       'Szosowy'   ,6699.99,7),
+(10, 'Scott',     'S1' ,'Polish Byke Economic','Miejski' ,299.00,8),
+(11, 'Cannondale','G7','Unitro Super',       'Górski'    ,399.00,9):

@@ -1,0 +1,3 @@
+Projekt przedstawia sklep rowerowy i ich klientów
+zapytania polegaja na wybieraniu poszczególnych rzeczy z tej bazy (opisane w plikach)
+Pozdrawiam Piotr Deptuła

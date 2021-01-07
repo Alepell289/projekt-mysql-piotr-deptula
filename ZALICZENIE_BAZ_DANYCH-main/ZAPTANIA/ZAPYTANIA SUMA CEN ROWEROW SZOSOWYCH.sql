@@ -1,0 +1,1 @@
+SELECT sum(cena) FROM rowery WHERE `typ roweru` LIKE 'SZOSOWY';

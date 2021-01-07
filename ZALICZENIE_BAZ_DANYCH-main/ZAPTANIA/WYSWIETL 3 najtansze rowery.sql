@@ -1,0 +1,1 @@
+SELECT `nazwa roweru`,cena FROM rowery ORDER BY CENA ASC LIMIT 3;

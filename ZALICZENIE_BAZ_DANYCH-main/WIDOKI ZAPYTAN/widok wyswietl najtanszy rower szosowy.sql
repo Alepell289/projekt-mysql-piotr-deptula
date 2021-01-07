@@ -1,0 +1,1 @@
+SELECT * FROM `polska wypozyczalnia rowerow`.`widok wyswietl najtanszy rower szosowy`;

@@ -1,0 +1,3 @@
+CREATE TRIGGER `NOWY ROK NOWE CENY CUKROWE ROWERY` 
+AFTER UPDAtE ON rowery for each row 
+    UPDATE rowery SET cena=cena+500;

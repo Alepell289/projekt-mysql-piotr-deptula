@@ -1,0 +1,1 @@
+update rowery SET cena=cena*2 WHERE `typ roweru` LIKE 'Szosowy';

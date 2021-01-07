@@ -1,0 +1,12 @@
+INSERT INTO `pracownicy` (`idpracownika`, `imie`, `nazwisko`,idklienta) VALUES
+(1, 'Piotr', 'Król',1),
+(2, 'Tymon', 'Wieczorek',2),
+(3, 'Wiktor', 'Jabłoński',3),
+(4, 'Ignacy', 'Olszewski',5),
+(5, 'Jan', 'Duda',6),
+(6, 'Alan', 'Tępień',8),
+(7, 'Igor', 'malinowski',9),
+(8, 'Mateusz', 'Górski',6),
+(9, 'Ewa', 'Malewicz',7),
+(10, 'Piotr', 'Deptuła',3),
+(11, 'Mikołaj', 'Lewandowski',1):

@@ -1,0 +1,1 @@
+INSERT INTO zamowienia(idroweru,data,stan_realizacji_zamowienia,idklienta) VALUES (2,2020-11-11,'Wyslane',5)

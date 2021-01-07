@@ -1,0 +1,8 @@
+CREATE TABLE `klienci` (
+  idklienta INT PRIMARY KEY AUTO_INCREMENT,
+  `imie` text COLLATE utf8_polish_ci NOT NULL,
+  `PESEL` BIGINT(11) NOT NULL ,
+  `nazwisko` text COLLATE utf8_polish_ci  NOT NULL,
+  `plec` text COLLATE utf8_polish_ci NOT NULL,
+  `miejscowosc` text COLLATE utf8_polish_ci NOT NULL
+):

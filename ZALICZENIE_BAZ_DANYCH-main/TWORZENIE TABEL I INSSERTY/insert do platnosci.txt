@@ -1,0 +1,12 @@
+INSERT INTO `platnosci` ( `idplatnosci`,`koszt zakupu`, `data wplaty` ,`typ platnosci`,idklienta ) VALUES
+(1, 1065, '2020-10-08', 'karta płatnicza',4),
+(2, 9034, '2018-09-05', 'gotówka',1),
+(3, 1834, '2019-10-11', 'kurier przy odbiorze',9),
+(4, 6945, '2020-10-15', 'kurier przy odbiorze',8),
+(5, 1567, '2019-08-12', 'gotówka',7),
+(6, 212, '2018-10-20', 'karta',6),
+(7, 97,    '2020-08-14', 'karta płatnicza',5),
+(8, 1864,  '2020-08-19', 'gotówka',3),
+(9, 12986, '2020-11-19', 'gotówka',4),
+(10,34567,  '2018-10-20',  'kurier przy odbiorze',2),
+(11,12986, '2020-11-19', 'gotówka',1):

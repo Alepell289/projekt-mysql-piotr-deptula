@@ -1,0 +1,1 @@
+SELECT * FROM `polska wypozyczalnia rowerow`.`widok pracownikow i rowerów`;

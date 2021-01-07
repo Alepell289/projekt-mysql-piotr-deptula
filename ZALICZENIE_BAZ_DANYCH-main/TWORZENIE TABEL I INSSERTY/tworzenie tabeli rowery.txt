@@ -1,0 +1,9 @@
+CREATE TABLE `rowery` (
+  `idroweru` int(20) NOT NULL AUTO_INCREMENT,
+  `marka` text NOT NULL,
+  `seria` text NOT NULL,
+  `nazwa roweru` text NOT NULL,
+  `typ roweru` text NOT NULL,
+  `cena` float NOT NULL,
+  PRIMARY KEY (`idroweru`),idpracownika int, FOREIGN KEY (idpracownika) REFERENCES pracownicy(idpracownika)
+)AUTO_INCREMENT=20:

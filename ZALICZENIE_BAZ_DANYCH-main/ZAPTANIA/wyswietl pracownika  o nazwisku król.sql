@@ -1,0 +1,1 @@
+SELECT * FROM pracownicy WHERE nazwisko LIKE 'Król';

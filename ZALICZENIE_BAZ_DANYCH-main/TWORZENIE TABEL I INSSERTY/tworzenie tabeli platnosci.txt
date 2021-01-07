@@ -1,0 +1,7 @@
+CREATE TABLE `platnosci` (
+  `idplatnosci` int(10) NOT NULL AUTO_INCREMENT,
+  `koszt zakupu` int,
+  `data wplaty` datetime,
+  `typ platnosci` varchar(20),
+  KEY `id` (`idplatnosci`),idklienta int,FOREIGN KEY (idklienta) REFERENCES klienci(idklienta)
+) DEFAULT CHARSET=utf8 COLLATE=utf8_polish_ci auto_increment=9:

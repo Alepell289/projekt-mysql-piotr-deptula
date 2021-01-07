@@ -1,0 +1,26 @@
+INSERT INTO `klienci` (`imie`, `PESEL`, `nazwisko`, `plec`, `miejscowosc`) VALUES
+('Jakub', '19427658432', 'Nowak', 'Mężczyzna', 'Gdańsk'),
+('Antoni', '20397338602', 'Kowalski', 'Mężczyzna', 'Katowice'),
+('Jan', '92527182134' , 'Wiśniewski', 'Mężczyzna', 'Bydgoszcz'),
+('Szymon', '31538262792','Wójcik', 'Mężczyzna', 'Lublin'),
+('Filip', '08041801104', 'Kowalczyk', 'Mężczyzna', 'Jelenia Góra'),
+('Aleksander', '46573842150' , 'Kamiński', 'Mężczyzna', 'Kraków'),
+('Wojciech', '19200421894', 'Lewandowski', 'Mężczyzna', 'Kielce'),
+('Franciszek', '06646138985', 'Zieliński', 'Mężczyzna', 'Olsztyn'),
+('Mikołaj', '46830046166', 'Szymański', 'Mężczyzna', 'Rybnik'),
+('Halina', '36789868265', 'Wozniak', 'Kobieta', 'Pułtusk'),
+('Alain', '91115003550' , 'Delon', 'Mężczyzna', 'Olsztyn'),
+('Alain', '18638342854', 'Dąbrowski', 'Mężczyzna', 'Olsztyn'): Running...
+[118, 13:00:27] INSERT INTO `klienci` (`imie`, `PESEL`, `nazwisko`, `plec`, `miejscowosc`) VALUES
+('Jakub', '19427658432', 'Nowak', 'Mężczyzna', 'Gdańsk'),
+('Antoni', '20397338602', 'Kowalski', 'Mężczyzna', 'Katowice'),
+('Jan', '92527182134' , 'Wiśniewski', 'Mężczyzna', 'Bydgoszcz'),
+('Szymon', '31538262792','Wójcik', 'Mężczyzna', 'Lublin'),
+('Filip', '08041801104', 'Kowalczyk', 'Mężczyzna', 'Jelenia Góra'),
+('Aleksander', '46573842150' , 'Kamiński', 'Mężczyzna', 'Kraków'),
+('Wojciech', '19200421894', 'Lewandowski', 'Mężczyzna', 'Kielce'),
+('Franciszek', '06646138985', 'Zieliński', 'Mężczyzna', 'Olsztyn'),
+('Mikołaj', '46830046166', 'Szymański', 'Mężczyzna', 'Rybnik'),
+('Halina', '36789868265', 'Wozniak', 'Kobieta', 'Pułtusk'),
+('Alain', '91115003550' , 'Delon', 'Mężczyzna', 'Olsztyn'),
+('Alain', '18638342854', 'Dąbrowski', 'Mężczyzna', 'Olsztyn'):

@@ -1,0 +1,1 @@
+SELECT * FROM klienci WHERE idklienta IN (SELECT idklienta  FROM zamowienia WHERE stan_realizacji_zamowienia LIKE'wysłane');

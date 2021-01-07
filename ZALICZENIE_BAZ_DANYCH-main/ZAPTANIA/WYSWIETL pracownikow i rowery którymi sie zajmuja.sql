@@ -1,0 +1,1 @@
+ Select *FROM pracownicy  INNER JOIN rowery ON pracownicy.idpracownika=rowery.idpracownika;
