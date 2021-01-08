@@ -1,0 +1,1 @@
+SELECT min(wartosc_produktu)AS `najtanszy rower szosowy` FROM rowery WHERE `typ roweru` = 'SZOSOWY';

@@ -1,0 +1,1 @@
+SELECT AVG(wartosc_produktu) FROM rowery;

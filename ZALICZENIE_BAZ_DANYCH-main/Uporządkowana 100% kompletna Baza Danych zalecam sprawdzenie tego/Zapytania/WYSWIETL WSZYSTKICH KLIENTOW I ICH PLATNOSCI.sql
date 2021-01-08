@@ -1,0 +1,1 @@
+SELECT*FROM  klienci INNER JOIN platnosci ON klienci.idklienta=platnosci.idklienta;

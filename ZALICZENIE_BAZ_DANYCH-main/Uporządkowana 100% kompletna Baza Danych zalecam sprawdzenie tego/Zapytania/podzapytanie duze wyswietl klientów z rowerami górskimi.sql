@@ -1,0 +1,1 @@
+SELECT *FROM klienci INNER JOIN zamowienia ON klienci.idklienta=zamowienia.idklienta INNER JOIN rowery ON zamowienia.idroweru=rowery.idroweru WHERE `rowery`.`typ roweru` LIKE 'Górski';
